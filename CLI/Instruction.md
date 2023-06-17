@@ -1,1 +1,1 @@
-# Do the following folder structures illustrade on the activity 1 and 2.
+# Do the following folder structures illustrated on the activity 1 and 2.
