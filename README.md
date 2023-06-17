@@ -59,5 +59,10 @@ rmdir "<directoryName>"
 
 ```
 
+- To create a file use the `touch` command (in macOS) then filename and extension(.txt, .pdf, .csv, etc):
+```
+touch example.txt
+```
+
 
 
