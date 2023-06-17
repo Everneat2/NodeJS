@@ -63,6 +63,8 @@ rmdir "<directoryName>"
 ```
 touch example.txt
 ```
+# I will do demonstrations.
+# Do activity inside the CLI folder.
 
 
 
