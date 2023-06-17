@@ -27,6 +27,11 @@ npm install <package-name>
 
 <p>Common cli commands are : </p>
 
+- To view the list of files and Directories in the current directory use the command `ls`.
+```
+ls
+```
+
 - To create a directory, use the `mkdir` command followed by the directory name:
 
 ```
@@ -53,5 +58,6 @@ the above command would get you out in the current directory
 rmdir "<directoryName>"
 
 ```
+
 
 
