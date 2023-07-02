@@ -1,0 +1,31 @@
+Sure! Here are some commonly used Git commands that are essential for beginners:
+
+1. `git init`: Initializes a new Git repository in the current directory.
+
+2. `git clone [repository URL]`: Copies a remote repository to your local machine.
+
+3. `git add [file]` or `git add .`: Adds a specific file or all files in the current directory to the staging area.
+
+4. `git commit -m "commit message"`: Records changes in the staging area to the Git repository with a descriptive commit message.
+
+5. `git status`: Shows the current status of the repository, including the modified files and files in the staging area.
+
+6. `git log`: Displays a history of commits, showing commit hashes, authors, dates, and commit messages.
+
+7. `git push`: Uploads local commits to a remote repository.
+
+8. `git pull`: Fetches changes from a remote repository and merges them into the current branch.
+
+9. `git branch`: Lists all branches in the repository.
+
+10. `git checkout [branch]`: Switches to a different branch.
+
+11. `git merge [branch]`: Combines the specified branch into the current branch.
+
+12. `git remote add [remote name] [remote URL]`: Adds a remote repository to the local repository.
+
+13. `git remote -v`: Shows the list of remote repositories.
+
+These are just a few basic Git commands to get you started. Git offers many more powerful features and commands that can help you manage your version control workflow effectively. It's recommended to explore Git documentation and tutorials to learn more about its capabilities.
+
+Note: When using Git commands, make sure you are in the correct directory and have the necessary permissions to perform the operations.
